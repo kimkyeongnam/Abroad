@@ -1,11 +1,11 @@
 ## 해외취업, 외국계(글로벌기업)지원 시 필요한 서류
-1. Resume & Cover Letter
-2. 영문성적증명서 및 졸업증명서
-3. 여권사본
-4. 자기소개동영상(Self-Introductory Video)
-5. 영문 추천서(Reference Letter)
-6. 기타 증명서(Certificate Letter)
-7. 포트폴리오(Portfolio)
+* Resume & Cover Letter
+* 영문성적증명서 및 졸업증명서
+* 여권사본
+* 자기소개동영상(Self-Introductory Video)
+* 영문 추천서(Reference Letter)
+* 기타 증명서(Certificate Letter)
+* 포트폴리오(Portfolio)
 <br>
 
 ## 출처
